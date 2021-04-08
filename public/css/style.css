@@ -8,6 +8,7 @@ body:last-child>section{
     border-bottom:0;
 }
 */
+
 /* début exo 01 les_hover_01 */
 .bg-color{
     height: 150px;
@@ -87,7 +88,7 @@ body:last-child>section{
     transition-duration: 3s;
 }
 .transition_06:active{
-    margin: 300px;
+    margin-left: 300px;
 }
 /* fin exo 06 les transitions */
 
